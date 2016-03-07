@@ -11,7 +11,7 @@ $(".tabs").t2a();
 
 ```
 ## Options
-**Option 1:** mobile (width of intended mobile device with to convert into accordion)
+**Option 1:** mobile (width of intended mobile device width to convert into accordion)
 
 **Example:**
 ```javascript
